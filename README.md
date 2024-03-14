@@ -1,5 +1,3 @@
 # hello-world
-Repository for the tutorial
 
-Commit #1
-My name is Nichlos
+I'll use this to test git flow
